@@ -20,7 +20,6 @@
     For each verb, call the get_synonyms() function to get its synonyms and store them in the synonyms_dict dictionary.
     Print the verbs and their synonyms.
 6.Execute the main program.
-
 ## Program:
 ```
 DEVELOPED BY: P. PRAKASH
