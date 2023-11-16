@@ -20,8 +20,7 @@ Construct a python program to read a text from a file.Identify the verbs from th
 6.Execute the main program.
 ## Program:
 ```
-DEVELOPED BY: P. PRAKASH
-              212221040126
+DEVELOPED BY: P. PRAKASH - 212221040126
 ```
 ```
 import nltk
