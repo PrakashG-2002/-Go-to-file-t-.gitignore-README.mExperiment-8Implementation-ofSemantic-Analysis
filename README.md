@@ -23,8 +23,8 @@
 
 ## Program:
 ```
-Developed by: PRAKASH P
-Register Number: 212221040126
+DEVELOPED BY: P. PRAKASH
+              212221040126
 ```
 ```
 import nltk
